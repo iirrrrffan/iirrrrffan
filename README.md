@@ -87,15 +87,7 @@
 </p>
 
 ---
+![snake gif](https://github.com/iirrrrffan/iirrrrffan/blob/output/github-contribution-grid-snake.svr)
 
-## ⚡ Fun Code Zone
 
-```javascript
-const irfan = {
-  role: "Full Stack Developer",
-  tech: ["MERN", "PHP", "Laravel"],
-  tools: ["VS Code", "Git", "Postman"],
-  passion: "Building clean & modern UI 🚀",
-};
 
-console.log("Let's build something amazing 🔥");
