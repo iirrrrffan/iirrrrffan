@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Specialist;Laravel+Learner;Building+Modern+Web+Apps+🚀" />
-</p>
+</p> 
 
 ---
 
