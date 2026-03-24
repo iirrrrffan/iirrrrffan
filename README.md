@@ -3,17 +3,17 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Specialist;Laravel+Learner;Building+Modern+Web+Apps+🚀" />
-</p> 
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 💼 Working at **NATMCO Solutions**
-- 🌱 Learning **PHP & Laravel**
-- 💡 Skilled in **MERN Stack**
+- 🌱 Currently learning **PHP & Laravel**
+- 💡 Strong in **MERN Stack**
 - ⚽ Former **Football Team Captain**
-- 🎯 Focused on building **scalable & clean UI apps**
+- 🎯 Focused on building **scalable & modern web apps**
 
 ---
 
@@ -28,31 +28,42 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/iirrrrffan/kmcc--web ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/iirrrrffan/kmcc--web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iirrrrffan&repo=kmcc--web&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/iirrrrffan/stayfinder-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iirrrrffan&repo=stayfinder-web&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
-💡 Replace `project1` and `project2` with your best projects (important!)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iirrrrffan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iirrrrffan&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iirrrrffan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iirrrrffan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iirrrrffan&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iirrrrffan/iirrrrffan/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <b>⚡ Consistency is the key to mastery</b><br>
+  <sub>Building, learning, and improving every day 🚀</sub>
 </p>
 
 ---
@@ -87,10 +98,15 @@
 </p>
 
 ---
-## Watch snake eatiing my github contribution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iirrrrffan/iirrrrffan/output/github-contribution-grid-snake.svg" />
-</p>
 
+## ⚡ Fun Code Zone
 
+```javascript
+const irfan = {
+  role: "Full Stack Developer",
+  stack: ["MERN", "PHP", "Laravel"],
+  tools: ["VS Code", "Git", "Postman"],
+  passion: "Building clean & scalable apps 🚀",
+};
 
+console.log("Let's build something amazing 🔥");
