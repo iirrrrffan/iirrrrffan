@@ -20,9 +20,12 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,php,laravel,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,mysql,php,laravel,html,css,tailwind,bootstrap,materialui,git,github,vscode,vercel,postman,figma,wordpress" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=Frontend+%7C+Backend+%7C+Database;Building+Full+Stack+Apps+🚀;Always+Learning+New+Tech+🔥" />
+</p>
 ---
 
 ## 🚀 Featured Projects
@@ -55,16 +58,13 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iirrrrffan/iirrrrffan/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <b>⚡ Consistency is the key to mastery</b><br>
-  <sub>Building, learning, and improving every day 🚀</sub>
-</p>
+
 
 ---
 
