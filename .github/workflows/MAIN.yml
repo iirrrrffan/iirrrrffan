@@ -1,33 +1,42 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    # Runs daily at midnight UTC + every 6 hours for fresher updates
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - "main" # also runs on every push to main
 
 permissions:
-  contents: write   # ✅ THIS FIXES YOUR ERROR
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate snake (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: iirrrrffan
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake animation [skip ci]"
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
