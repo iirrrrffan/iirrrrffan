@@ -59,9 +59,9 @@
 ---
 
 <h2 align="center">📈 Contribution Graph</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iirrrrffan/iirrrrffan/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/iirrrrffan/iirrrrffan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/iirrrrffan/iirrrrffan/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
 
