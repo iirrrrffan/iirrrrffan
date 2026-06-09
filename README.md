@@ -58,11 +58,13 @@
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iirrrrffan&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iirrrrffan&theme=github-dark&hide_border=true" />
 </p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iirrrrffan/iirrrrffan/output/github-contribution-grid-snake-dark.svg" />
